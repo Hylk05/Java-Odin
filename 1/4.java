@@ -1,0 +1,1 @@
+String result = "Число: " + 42 + ", объект: " + new java.util.Date();
